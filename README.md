@@ -1,6 +1,7 @@
 # SPLITTER
 Este repositório demonstra como receber um JSON via REST, converter para XML e utilizar o General Splitter no SAP Cloud Integration (CPI) para processar cada item individualmente.
 
+## Exemplo do JSON
 {
   "Orders": {
     "Pedidos": [
@@ -22,3 +23,8 @@ Este repositório demonstra como receber um JSON via REST, converter para XML e 
 ![Fluxo](imagens/Screenshot_9.png)
 ![Fluxo](imagens/Screenshot_10.png)
 
+
+## 🧩 Exemplo prático – iFlow para baixar
+
+
+![Package](Package/SPLITTER.zip)

@@ -2,6 +2,8 @@
 
 Este repositório demonstra como receber um JSON via REST, converter para XML e utilizar o **General Splitter** no **SAP Cloud Integration (CPI)** para processar cada item individualmente.
 
+![Capa](imagens/capa-linkedin.png)
+
 ---
 
 ## 📥 Exemplo de Payload JSON

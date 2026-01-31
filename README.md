@@ -22,6 +22,8 @@ O JSON utilizado no teste pode ser encontrado em:
 }
 
 
+## 🔄 Fluxo do iFlow
+
 ![Fluxo](imagens/Screenshot_1.png)
 ![Fluxo](imagens/Screenshot_2.png)
 ![Fluxo](imagens/Screenshot_3.png)
@@ -34,7 +36,9 @@ O JSON utilizado no teste pode ser encontrado em:
 ![Fluxo](imagens/Screenshot_10.png)
 
 
-## 🧩 Exemplo prático – iFlow para baixar
 
+## 📦 Exemplo prático – iFlow para baixar
 
-![Package](Package/SPLITTER.zip)
+📦 [Download do iFlow – SPLITTER.zip](Package/SPLITTER.zip)
+
+> O arquivo pode ser importado diretamente no SAP Integration Suite (CPI).
